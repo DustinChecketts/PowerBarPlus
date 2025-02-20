@@ -16,6 +16,7 @@ Power Bar Plus helps you manage your MP5 with a five-second rule (FSR) countdown
 
 <h4>Known Issues / To-Do</h4>
 
+- Make adjustments for other mana gains such as Blessing of Wisdom, etc.
 - Monitor/track Energy gains for rogues/druids
 - Test thoroughly with other classes besides hunters
 
